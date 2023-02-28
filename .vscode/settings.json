@@ -1,0 +1,5 @@
+{
+    "solidity-va.preview.markdown": true,
+    "solidity-va.tools.surya.option.negModifiers": true,
+    "solidity-va.diagnostics.cdili_json.import": true
+}
